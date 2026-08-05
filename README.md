@@ -1,14 +1,18 @@
 # atc-shivacore-wiki
 
-📖 ShivaCore Kernel Wiki — Bare-metal Rust no_std Kernel (K0-K40, 51 Module, 1304 Tests)
+Wiki für [atc-shivacore](https://github.com/A-TownChain-Okosystems/atc-shivacore)
 
-## Zugehöriges Repository
-- **Source:** [`A-TownChain-Okosystems/atc-shivacore`](https://github.com/A-TownChain-Okosystems/atc-shivacore)
+Dokumentation für ShivaCore Kernel (Rust)
 
-## Status
-- **Wiki-Status:** Initialisiert
-- **Sync:** Täglich synchronisiert via GitHub + Notion + Wiki Sync Automation
-- **Organisation:** A-TownChain-Okosystems
+## Dokumentation
+- [Architektur](ARCHITECTURE.md)
+- [API Reference](API.md)
+- [Module](MODULES.md)
+- [Status](STATUS.md)
 
----
-Copyright © Michael Wroblewski / A-TownChain-Okosystems. All Rights Reserved.
+## Übersicht
+Dieses Wiki dokumentiert das `atc-shivacore`-Repo, Teil des A-TownChain OS Ökosystems (70 Repos).
+
+Org: [A-TownChain-Okosystems](https://github.com/A-TownChain-Okosystems)
+
+[agent: aurora-base44-superagent-6a2756186106d6f0fbb105b5]
